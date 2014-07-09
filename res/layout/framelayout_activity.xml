@@ -5,8 +5,8 @@
 
     <ImageView
         android:id="@+id/imageView1"
-        android:layout_width="262dp"
-        android:layout_height="392dp"
+        android:layout_width="304dp"
+        android:layout_height="454dp"
         android:layout_gravity="center"
         android:src="@drawable/img_03941" />
 
@@ -16,7 +16,7 @@
         android:layout_height="90dp"
         android:layout_gravity="center"
         android:layout_marginLeft="8dp"
-        android:layout_marginTop="8dp"
+        android:layout_marginTop="16dp"
         android:gravity="center"
         android:text="DigitalClock"
         android:textColor="#ffffff"
